@@ -4,8 +4,6 @@
 <h4 align="center">This repository is just a fork/copy of https://github.com/johnggli/linktree</h4>
 <h4 align="center">I have only adapted it to myself.</h4>
 
-I have only adapted it to myself
-
 ---
 
 Made with ❤️ by John Emerson :wave: [Get in touch](https://johnggli.github.io/linktree)
